@@ -3,7 +3,7 @@
 // Javascript made by http://peters1.dk/tools/snow.php //
 /////////////////////////////////////////////////////////
 
-snow_img = "kepek/nyuszikicsi.png";
+snow_img = "KEPEK/nyuszikicsi.png";
 snow_no = 40;
 
 if (typeof(window.pageYOffset) == "number")
